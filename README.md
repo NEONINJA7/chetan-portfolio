@@ -1,4 +1,4 @@
-# Chetan Sharma — Personal Portfolio
+# Chetan Sharma - Personal Portfolio
 
 Welcome to my personal portfolio repository 
 
